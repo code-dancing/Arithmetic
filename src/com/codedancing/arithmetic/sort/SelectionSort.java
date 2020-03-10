@@ -1,4 +1,4 @@
-package cn.com.garay.arithmetic.sort;
+package com.codedancing.arithmetic.sort;
 
 import java.util.Arrays;
 
